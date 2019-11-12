@@ -1,0 +1,44 @@
+Body{
+    background-color: #f4f4f4;
+}
+
+#header{
+    background-color: #1d1c3e;
+    font-family:"Calibri", sans-serif; 
+    font-weight:800;
+    color:#f4f4f4;
+    font-size:1vw;
+}
+
+#Logo{
+    height:7vw;
+    padding-left:5%;
+    padding-top:.5%;
+}
+
+#Expedia{
+    font-family:"Calibri", sans-serif; 
+    font-weight:100;
+    color:#f4f4f4;
+}
+
+#Contact{
+    font-family:"Calibri", sans-serif; 
+    font-weight:100;
+    color:#f4f4f4;
+}
+
+#Register{
+    font-family:"Calibri", sans-serif; 
+    font-weight:100;
+    color:#f4f4f4;
+}
+
+#Landing{
+    font-family:"Calibri", sans-serif; 
+    font-weight:100;
+    font-size:70%;
+    color:#f4f4f4;
+    padding-right:15%;
+    background-color: #2f2f2f;
+}
